@@ -1,5 +1,14 @@
 class Solution {
 public:
+    long long max(vector<int>& piles){
+        long long m=piles[0];
+        for(int i=0; i<piles.size(); i++){
+            if(piles[i]>m){
+                m=piles[i];
+            }
+        }
+        return m;    
+    }
     long long time(vector<int>& arr, long long int k){
         long long sum=0;
         for(int i=0; i<arr.size(); i++) {
@@ -10,7 +19,7 @@ public:
 
     int minEatingSpeed(vector<int>& piles, int h) {
         long long low=1;
-        long long high = *max_element(piles.begin(), piles.end());
+        long long high = max(piles);
         long long k=high;
         long long reqTime;
         while(low<=high) {
