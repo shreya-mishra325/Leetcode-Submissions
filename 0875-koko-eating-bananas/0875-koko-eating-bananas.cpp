@@ -9,10 +9,11 @@ public:
         }
         return m;    
     }
-    long long time(vector<int>& arr, long long int k){
+    long long time(vector<int>& arr, long long int k, int h){
         long long sum=0;
         for(int i=0; i<arr.size(); i++) {
             sum=sum+(arr[i]+k-1)/k;
+            if(sum>h) break;
         }
         return sum;
     }
@@ -24,7 +25,7 @@ public:
         long long reqTime;
         while(low<=high) {
             long long mid=low+(high-low)/2;
-            reqTime = time(piles, mid);
+            reqTime = time(piles, mid, h);
             if(reqTime<=h){
                 k=mid;
                 high=mid-1;
