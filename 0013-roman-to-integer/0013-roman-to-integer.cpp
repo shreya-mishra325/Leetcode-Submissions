@@ -10,6 +10,6 @@ public:
                 res = res - roman[s[i]];
             } else res=res + roman[s[i]];
         }
-        return res + roman[s.back()];
+        return res + roman[s[s.size()-1]];
     }
 };
