@@ -1,19 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string ans="";
-        for(int i=0; i<s.size(); i++){
-            if(isalnum(s[i])){
-                ans.push_back(tolower(s[i]));
-            }
-        }
-        std::transform(ans.begin(), ans.end(), ans.begin(), ::tolower);
-        string rev = "";
-        for(int i=ans.size()-1; i>=0; i--){
-            rev.push_back(ans[i]);
-        }
-        if(ans==rev)
-        return true;
-        else return false;        
+        int left = 0;
+        int right = s.size()-1;
+        while(left<right){
+            while(left<right && !isalnum(s[left]))
+            left++;
+            while(left<right && !isalnum(s[right]))
+            right--;
+
+            if(tolower(s[left])!=tolower(s[right]))
+            return false;
+            left++;
+            right--;
+        } 
+        return true;  
     }
 };
