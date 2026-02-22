@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0242-valid-anagram) |
