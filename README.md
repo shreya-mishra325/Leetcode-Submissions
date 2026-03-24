@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
