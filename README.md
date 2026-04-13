@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0189-rotate-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
