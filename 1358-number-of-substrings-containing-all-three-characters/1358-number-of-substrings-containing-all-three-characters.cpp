@@ -1,19 +1,17 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int lastA = -1, lastB = -1, lastC = -1;
-        int count = 0;
-        for(int i = 0; i < s.size(); i++) {
-            if(s[i] == 'a') lastA = i;
-            else if(s[i] == 'b') lastB = i;
-            else lastC = i;
-
-            int minLast = min(lastA, min(lastB, lastC));
-
-            if(minLast != -1) {
-                count += (minLast + 1);
+        int l=0, r=0, count=0;
+        unordered_map<char, int> mpp;
+        while(r<s.size()){
+            mpp[s[r]]++;
+            while(mpp['a']>0 && mpp['b']>0 && mpp['c']>0){
+                count += (s.size() - r);
+                mpp[s[l]]--;
+                l++;
             }
+            r++;
         }
-        return count;
+        return count;   
     }
 };
