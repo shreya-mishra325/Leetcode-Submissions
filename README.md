@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -190,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -222,4 +227,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
