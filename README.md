@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
