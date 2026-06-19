@@ -269,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
