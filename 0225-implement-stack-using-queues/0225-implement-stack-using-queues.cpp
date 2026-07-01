@@ -5,23 +5,18 @@ public:
     MyStack() {
             
     }
-    
     void push(int x) {
         q1.push(x);
     }
     
     int pop() {
-        // Move all except the last element to q2
         while (q1.size() > 1) {
             q2.push(q1.front());
             q1.pop();
         }
         int ans = q1.front();
         q1.pop();
-
-
         swap(q1, q2);
-
         return ans;
     }
 
