@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
