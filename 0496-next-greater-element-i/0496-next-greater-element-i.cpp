@@ -1,21 +1,19 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        stack<int> st;
         vector<int> ans;
         map<int, int> mpp;
-        for (int i=0; i<nums2.size(); i++) {
-            mpp[nums2[i]]=i;
-        }
-        for (int i=0; i<nums1.size(); i++) {
-            int j = mpp[nums1[i]];
-            int nextGreater=-1;
-            for (int k=j+1; k<nums2.size(); k++) {
-                if (nums2[k]>nums2[j]) {
-                    nextGreater=nums2[k];
-                    break;
-                }
+        for(int i=nums2.size()-1; i>=0; i--){
+            while(!st.empty() && st.top()<nums2[i]){
+                st.pop();
             }
-            ans.push_back(nextGreater);
+            if(st.empty()) mpp[nums2[i]]=-1;
+            else mpp[nums2[i]]=st.top();
+            st.push(nums2[i]);
+        }
+        for(int i=0; i<nums1.size(); i++){
+            ans.push_back(mpp[nums1[i]]);
         }
         return ans;
     }
