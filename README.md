@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
