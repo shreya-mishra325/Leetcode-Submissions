@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
