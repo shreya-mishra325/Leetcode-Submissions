@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0455-assign-cookies) |
