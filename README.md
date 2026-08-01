@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
