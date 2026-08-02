@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
