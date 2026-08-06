@@ -433,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
