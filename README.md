@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0860-lemonade-change) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1710-maximum-units-on-a-truck) |
