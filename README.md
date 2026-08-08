@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0860-lemonade-change) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1710-maximum-units-on-a-truck) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
