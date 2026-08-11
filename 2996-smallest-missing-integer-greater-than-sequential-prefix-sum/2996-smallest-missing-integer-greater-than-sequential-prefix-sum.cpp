@@ -8,9 +8,9 @@ public:
             if(nums[i]!=nums[i-1]+1) break;
             sum=sum+nums[i];
         }
-        sort(nums.begin(), nums.end());
-        for(int x:nums){
-            if(x==sum) sum++;
+        unordered_set<int> s(nums.begin(), nums.end());
+        while(s.count(sum)){
+            sum++;
         }
         return sum;
     }
