@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0875-koko-eating-bananas) |
