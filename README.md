@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
+| [0994-rotting-oranges](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
