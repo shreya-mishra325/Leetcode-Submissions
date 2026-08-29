@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
+| [0832-flipping-an-image](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
