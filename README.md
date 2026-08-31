@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 ## Merge Sort
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
