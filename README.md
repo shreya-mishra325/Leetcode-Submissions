@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0832-flipping-an-image) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0463-island-perimeter) |
@@ -727,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
