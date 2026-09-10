@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
