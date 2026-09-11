@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0976-largest-perimeter-triangle) |
 | [1227-airplane-seat-assignment-probability](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
