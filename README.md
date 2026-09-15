@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0342-power-of-four) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
