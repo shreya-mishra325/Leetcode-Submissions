@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0704-binary-search) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0976-largest-perimeter-triangle) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0976-largest-perimeter-triangle) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -467,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
