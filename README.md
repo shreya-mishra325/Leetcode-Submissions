@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
