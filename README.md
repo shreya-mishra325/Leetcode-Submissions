@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
@@ -430,12 +433,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -457,12 +462,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 ## Recursion
@@ -591,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
 |  |
 | ------- |
