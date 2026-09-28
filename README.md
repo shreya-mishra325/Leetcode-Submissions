@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0066-plus-one) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0415-add-strings) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0463-island-perimeter) |
