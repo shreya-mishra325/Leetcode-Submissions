@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
