@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0994-rotting-oranges](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
