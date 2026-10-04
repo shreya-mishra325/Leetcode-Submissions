@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0836-rectangle-overlap) |
+| [0869-reordered-power-of-2](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
 | [0976-largest-perimeter-triangle](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0976-largest-perimeter-triangle) |
 | [1227-airplane-seat-assignment-probability](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0621-task-scheduler) |
+| [0869-reordered-power-of-2](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0869-reordered-power-of-2](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0976-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0621-task-scheduler) |
+| [0869-reordered-power-of-2](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0204-count-primes) |
+| [0869-reordered-power-of-2](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
 | [1534-count-good-triplets](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1534-count-good-triplets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
