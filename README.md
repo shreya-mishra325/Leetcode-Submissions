@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0869-reordered-power-of-2](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
