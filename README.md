@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -965,4 +967,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
