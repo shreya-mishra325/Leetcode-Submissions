@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
