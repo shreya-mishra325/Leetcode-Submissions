@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
+| [1925-count-square-sum-triples](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0869-reordered-power-of-2](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
 | [1534-count-good-triplets](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
