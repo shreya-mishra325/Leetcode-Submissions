@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0078-subsets) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0415-add-strings) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0463-island-perimeter) |
