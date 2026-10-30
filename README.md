@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0621-task-scheduler) |
 | [0869-reordered-power-of-2](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
