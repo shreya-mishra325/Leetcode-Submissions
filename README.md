@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1227-airplane-seat-assignment-probability](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1227-airplane-seat-assignment-probability) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
 |  |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1254-number-of-closed-islands) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
