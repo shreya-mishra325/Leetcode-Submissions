@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0455-assign-cookies) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0409-longest-palindrome) |
