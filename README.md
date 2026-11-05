@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0832-flipping-an-image](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1539-kth-missing-positive-number) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0976-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1710-maximum-units-on-a-truck) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
