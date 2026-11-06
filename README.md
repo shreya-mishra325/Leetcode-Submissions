@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0611-valid-triangle-number) |
 | [0832-flipping-an-image](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1021-remove-outermost-parentheses) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
