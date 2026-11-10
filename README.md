@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0367-valid-perfect-square) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1079,4 +1082,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
