@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2469-convert-the-temperature](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
