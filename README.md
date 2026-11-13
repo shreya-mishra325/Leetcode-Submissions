@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0171-excel-sheet-column-number) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 ## Merge Sort
 |  |
