@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/1710-maximum-units-on-a-truck) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
