@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0509-fibonacci-number) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/shreya-mishra325/Leetcode-Submissions/tree/master/0832-flipping-an-image) |
